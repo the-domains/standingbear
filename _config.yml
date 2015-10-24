@@ -1,0 +1,23 @@
+name: StandingBear
+favicon: null
+layout_spectrum: 0.36378615349531174
+typography_spectrum: 0.41982613666914403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2956304266117513
+  lightness: 0.3124486596789211
+  saturation: 0.6114414697512984
+  rhythmicContrast: 0.43154459237121046
+purpose: []
